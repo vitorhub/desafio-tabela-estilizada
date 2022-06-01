@@ -28,6 +28,9 @@ td{
     margin-left: 50%;
     transform: translateX(-50%);
 }
+.container{
+    margin-top: 7%;
+}
 body{
     text-align: center;
 }
