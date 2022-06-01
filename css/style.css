@@ -1,0 +1,33 @@
+.moda:nth-child(1){
+
+}
+body{
+    color: #fff;
+}
+h1{
+    color: #000;
+    font-size: 1.8rem;
+}
+.moda-cabecalho{
+    background-color: #BB86FC;
+}
+th, td{
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 0.4rem;
+}
+td{
+    background-color: #424250;
+}
+.casa-cabecalho{
+    background-color: #00C4B4;
+}
+.moda, .casa{
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+body{
+    text-align: center;
+}
